@@ -5,3 +5,5 @@ Eggs 1 Dozen
 Spinach 2 Bunches
 Dal 2kg
 Cooking Oil 1lt
+Peanuts
+Milk
